@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.4.5",
-  "acceptedVersions": ["1.4.5"],
+  "acceptedVersions": ["1.4.5", "1.4.6"],
   "minimumRequiredVersion": "1.4.5",
   "required": true,
   "androidUpdateUrl": "https://play.google.com/store/apps/details?id=com.RorkRarkStudio.KunKhmer",
