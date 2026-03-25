@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.4.8",
-  "acceptedVersions": ["1.4.8"],
+  "acceptedVersions": ["1.4.8", "1.4.9"],
   "minimumRequiredVersion": "1.4.8",
   "required": true,
   "androidUpdateUrl": "https://play.google.com/store/apps/details?id=com.RorkRarkStudio.KunKhmer",
