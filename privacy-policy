@@ -94,7 +94,6 @@ following information from Facebook after You grant permission:
 
 <ul>
     <li>Facebook User ID</li>
-    <li>Display Name</li>
     <li>Profile Picture (Avatar URL)</li>
     <li>Email Address (if permission is granted)</li>
 </ul>
